@@ -1,0 +1,12 @@
+.color{
+    color: blue;
+}
+.heading{
+    color: aquamarine;
+    font-size: 0.8em;
+}
+a,
+a label {
+    cursor: pointer;
+    color: cornflowerblue;
+}
